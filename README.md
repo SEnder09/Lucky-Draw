@@ -10,7 +10,7 @@ An iOS application built with **SwiftUI** featuring a medieval fantasy aesthetic
 
 ## 🌟 Key Features
 
-           * **Localized Experience**: Fully localized interface in authentic Cantonese
+* **Localized Experience**: Fully localized interface in authentic Cantonese.
 * **Medieval Fantasy UI**: Custom parchment textures, wax seal triggers, and dynamic color palettes (`#8B0000` crimson, gold, and iron accents).
 * **Group Management**: Save, load, and delete custom candidate rosters using `@AppStorage` and JSON encoding.
 * **Inline Editing & Fast Rostering**:
