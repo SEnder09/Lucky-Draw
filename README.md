@@ -35,7 +35,7 @@ An iOS application built with **SwiftUI** featuring a medieval fantasy aesthetic
 
 | Main View |
 | :-: |
-| <img src="images/main-screen.png" width="300" alt="Main View"> |
+| <img src="image/main-screen.png" width="300" alt="Main View"> |
 
 ---
 
