@@ -34,10 +34,9 @@ An iOS application built with **SwiftUI** featuring a medieval fantasy aesthetic
 ## 📸 Screenshots
 
 > *Add screenshots of your app running on the iOS Simulator here.*
-
-| Main View | Group Storage Menu |
-| :-: | :-: |
-| *(Insert Screenshot Link Here)* | *(Insert Screenshot Link Here)* |
+| Main View |
+| :-: |
+| ![Main View](images/main-screen.png) |
 
 ---
 
