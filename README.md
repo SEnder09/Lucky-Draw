@@ -31,12 +31,11 @@ An iOS application built with **SwiftUI** featuring a medieval fantasy aesthetic
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-> *Add screenshots of your app running on the iOS Simulator here.*
 | Main View |
 | :-: |
-| ![Main View](images/main-screen.png) |
+| <img src="images/main-screen.png" width="300" alt="Main View"> |
 
 ---
 
